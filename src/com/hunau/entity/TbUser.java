@@ -68,7 +68,6 @@ public class TbUser {
         else {
             str+=",是否有效=否}";
         }
-        ;;;;
         return str;
     }
 }

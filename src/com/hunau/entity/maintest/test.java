@@ -14,7 +14,7 @@ import javax.swing.*;
 import com.hunau.util.Listen;
 
 public class test extends JFrame {
-    public void Login(){
+    private void Login(){
         Container container=getContentPane();
         container.setLayout(null);
 
